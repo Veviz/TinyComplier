@@ -1,0 +1,55 @@
+﻿生成启动时间为 2014/1/6 21:53:53。
+     1>项目“D:\乱七八糟\大三上课件\编译原理\程序\TinyComplier 4.2.1 公测版\编译原理课程设计\编译原理课程设计.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\编译原理课程设计.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         g:\360Downloads\Microsoft Visual Studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\编译原理课程设计.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TreetoC.cpp
+         TreetoC.cpp
+     1>d:\乱七八糟\大三上课件\编译原理\程序\tinycomplier 4.2.1 公测版\编译原理课程设计\treetoc.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 g:\360downloads\microsoft visual studio 2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\乱七八糟\大三上课件\编译原理\程序\tinycomplier 4.2.1 公测版\编译原理课程设计\treetoc.cpp(287): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 g:\360downloads\microsoft visual studio 2010\vc\include\string.h(105) : 参见“strcpy”的声明
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         g:\360Downloads\Microsoft Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\乱七八糟\大三上课件\编译原理\程序\TinyComplier 4.2.1 公测版\Debug\编译原理课程设计.exe" /INCREMENTAL /NOLOGO G:\opencv\build\x86\vc10\lib\opencv_core243d.lib G:\opencv\build\x86\vc10\lib\opencv_highgui243d.lib G:\opencv\build\x86\vc10\lib\opencv_video243d.lib G:\opencv\build\x86\vc10\lib\opencv_ml243d.lib G:\opencv\build\x86\vc10\lib\opencv_legacy243d.lib G:\opencv\build\x86\vc10\lib\opencv_imgproc243d.lib /MANIFEST /ManifestFile:"Debug\编译原理课程设计.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\乱七八糟\大三上课件\编译原理\程序\TinyComplier 4.2.1 公测版\Debug\编译原理课程设计.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\乱七八糟\大三上课件\编译原理\程序\TinyComplier 4.2.1 公测版\Debug\编译原理课程设计.lib" /MACHINE:X86 "Debug\编译原理课程设计.res"
+         "Debug\编译原理课程设计.exe.embed.manifest.res"
+         Debug\analyzer.obj
+         Debug\Assemble.obj
+         Debug\ChildFrm.obj
+         Debug\ClassView.obj
+         Debug\ErrorHandler.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\OutputWnd.obj
+         Debug\Parser.obj
+         Debug\PropertiesWnd.obj
+         Debug\SemanticsAnalyzer.obj
+         Debug\stdafx.obj
+         Debug\SymbolTab.obj
+         Debug\TinyCompiler.obj
+         Debug\TokenScanner.obj
+         Debug\TreeOperator.obj
+         Debug\TreetoC.obj
+         Debug\utili.obj
+         Debug\ViewTree.obj
+         "Debug\编译原理课程设计.obj"
+         "Debug\编译原理课程设计Doc.obj"
+         "Debug\编译原理课程设计View.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\编译原理课程设计.exe.embed.manifest" /manifest "Debug\编译原理课程设计.exe.intermediate.manifest" "g:\360Downloads\Microsoft Visual Studio 2010\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         编译原理课程设计.vcxproj -> D:\乱七八糟\大三上课件\编译原理\程序\TinyComplier 4.2.1 公测版\Debug\编译原理课程设计.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\编译原理课程设计.unsuccessfulbuild”。
+         正在对“Debug\编译原理课程设计.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\乱七八糟\大三上课件\编译原理\程序\TinyComplier 4.2.1 公测版\编译原理课程设计\编译原理课程设计.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.21

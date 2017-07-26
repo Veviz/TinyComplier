@@ -1,0 +1,10 @@
+read:x
+read:y
+if
+     op:<
+          id:x
+          const:1
+     assign to:y
+          op:+
+               id:x
+               id:y

@@ -1,0 +1,6 @@
+read x;
+read y;
+if x<1
+then
+y:=x+y
+end

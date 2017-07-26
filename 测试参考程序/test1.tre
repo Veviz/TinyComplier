@@ -1,0 +1,23 @@
+read:n
+assign to:i
+     const:1
+repeat
+     assign to:sum
+          op:/
+               op:*
+                    id:i
+                    op:+
+                         id:i
+                         const:1
+               op:-
+                    id:i
+                    const:1
+     op:=
+          id:i
+          op:*
+               id:n
+               op:+
+                    const:3
+                    const:1
+write
+     id:sum

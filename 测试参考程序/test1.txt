@@ -1,0 +1,6 @@
+read n;
+i:=1;
+repeat
+	sum:=i*(i+1)/(i-1)
+until i=n*(3+1);
+write sum

@@ -1,0 +1,5 @@
+read n;
+if {sdfsdf} n<1 then 
+	n :=520
+	end;
+write n

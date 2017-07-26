@@ -1,0 +1,9 @@
+read:n
+if
+     op:<
+          id:n
+          const:1
+     assign to:n
+          const:520
+write
+     id:n
